@@ -20,11 +20,11 @@ pie showData
 
 ## Tabel
 
-| No.    | Nama Paslon    | Suara | Suara (raw) | Persentase |
-|:------ |:-------------- | -----:| -----------:| ----------:|
-| 100025 | ANIES MUHAIMIN | 114   | [114][p-1]  | 53,52      |
-| 100026 | PRABOWO GIBRAN | 69    | [69][p-2]   | 32,39      |
-| 100027 | GANJAR MAHFUD  | 30    | [30][p-3]   | 14,08      |
+| No. | Nama Paslon    | Suara | Suara (raw) | Persentase |
+|:--- |:-------------- | -----:| -----------:| ----------:|
+| 1   | ANIES MUHAIMIN | 114   | [114][p-1]  | 53,52      |
+| 2   | PRABOWO GIBRAN | 69    | [69][p-2]   | 32,39      |
+| 3   | GANJAR MAHFUD  | 30    | [30][p-3]   | 14,08      |
 
 
 [p-1]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/31-dki-jakarta/sub/73-jakarta-barat/sub/05-kebon-jeruk/sub/1001-kebon-jeruk/sub/022-tps/sub/paslon-1.txt
