@@ -1,0 +1,76 @@
+# Hasil
+
+## Grafik
+
+```mermaid
+xychart-beta
+    title "Perolehan Suara Nasional"
+    x-axis []
+    y-axis "Suara" 0 --> 0
+    bar []
+```
+
+```mermaid
+%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
+pie showData
+```
+
+## Tabel
+
+| No. | Nama Paslon | Suara | Suara (raw) | Persentase |
+|:--- |:----------- | -----:| -----------:| ----------:|
+
+
+[p-1]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/31-dki-jakarta/sub/71-jakarta-pusat/sub/02-sawah-besar/sub/1003-kartini/sub/049-tps/sub/paslon-1.txt
+[p-2]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/31-dki-jakarta/sub/71-jakarta-pusat/sub/02-sawah-besar/sub/1003-kartini/sub/049-tps/sub/paslon-2.txt
+[p-3]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/31-dki-jakarta/sub/71-jakarta-pusat/sub/02-sawah-besar/sub/1003-kartini/sub/049-tps/sub/paslon-3.txt
+
+## Foto C Plano
+
+https://sirekap-obj-formc.kpu.go.id/9b23/pemilu/ppwp/31/71/02/10/03/3171021003049-20240218-123843--3bd9bc96-4379-426f-a521-f399749eb961.jpg
+
+https://sirekap-obj-formc.kpu.go.id/9b23/pemilu/ppwp/31/71/02/10/03/3171021003049-20240218-135755--9b504e80-cd3a-4cea-93fc-e7ceb14079d9.jpg
+
+https://sirekap-obj-formc.kpu.go.id/9b23/pemilu/ppwp/31/71/02/10/03/3171021003049-20240218-152046--53087446-60a7-4407-ba1c-79e409d7cc39.jpg
+
+
+## Metadata
+
+| Key        | Value               |
+| ---------- | ------------------- |
+| Time Stamp | 2024-02-19 06:16:00 |
+
+
+## DATA PEMILIH TETAP
+
+Jumlah pemilih dalam DPT: **268**.
+ * L: **130**.
+ * P: **138**.
+
+## DATA PENGGUNA HAK PILIH
+
+Jumlah pengguna hak pilih dalam DPT: **215**.
+ * L: **103**.
+ * P: **112**.
+
+Jumlah pengguna hak pilih dalam DPTb: **0**.
+ * L: **0**.
+ * P: **0**.
+
+Jumlah pengguna hak pilih dalam DPK: **0**.
+ * L: **0**.
+ * P: **0**.
+
+Jumlah pengguna hak pilih: **215**.
+ * L: **103**.
+ * P: **112**.
+
+## JUMLAH SUARA SAH DAN TIDAK SAH
+
+JUMLAH SELURUH SUARA SAH: **211**.
+
+JUMLAH SUARA TIDAK SAH: **4**.
+
+JUMLAH SELURUH SUARA SAH DAN SUARA TIDAK SAH: **215**.
+
+

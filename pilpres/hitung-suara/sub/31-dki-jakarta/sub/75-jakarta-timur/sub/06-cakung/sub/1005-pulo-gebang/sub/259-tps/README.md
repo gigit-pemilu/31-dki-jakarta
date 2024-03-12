@@ -1,0 +1,50 @@
+# Hasil
+
+## Grafik
+
+```mermaid
+xychart-beta
+    title "Perolehan Suara Nasional"
+    x-axis [01, 02, 03]
+    y-axis "Suara" 0 --> 110
+    bar [110, 107, 23]
+```
+
+```mermaid
+%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
+pie showData
+    "1" : 110
+    "2" : 107
+    "3" : 23
+```
+
+## Tabel
+
+| No.    | Nama Paslon    | Suara | Suara (raw) | Persentase |
+|:------ |:-------------- | -----:| -----------:| ----------:|
+| 100025 | ANIES MUHAIMIN | 110   | [110][p-1]  | 45,83      |
+| 100026 | PRABOWO GIBRAN | 107   | [107][p-2]  | 44,58      |
+| 100027 | GANJAR MAHFUD  | 23    | [23][p-3]   | 9,58       |
+
+
+[p-1]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/31-dki-jakarta/sub/75-jakarta-timur/sub/06-cakung/sub/1005-pulo-gebang/sub/259-tps/sub/paslon-1.txt
+[p-2]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/31-dki-jakarta/sub/75-jakarta-timur/sub/06-cakung/sub/1005-pulo-gebang/sub/259-tps/sub/paslon-2.txt
+[p-3]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/31-dki-jakarta/sub/75-jakarta-timur/sub/06-cakung/sub/1005-pulo-gebang/sub/259-tps/sub/paslon-3.txt
+
+## Foto C Plano
+
+https://sirekap-obj-formc.kpu.go.id/18f2/pemilu/ppwp/31/75/06/10/05/3175061005259-20240214-230054--2e7dd374-bb2b-4abf-8aa9-da94de84d485.jpg
+
+https://sirekap-obj-formc.kpu.go.id/18f2/pemilu/ppwp/31/75/06/10/05/3175061005259-20240214-230237--6d6c41e6-bf91-4ea2-8477-f0005838a3e5.jpg
+
+https://sirekap-obj-formc.kpu.go.id/18f2/pemilu/ppwp/31/75/06/10/05/3175061005259-20240214-230354--312d5d47-e8c1-4cc8-9762-d9a42a7a53b5.jpg
+
+
+## Metadata
+
+| Key        | Value               |
+| ---------- | ------------------- |
+| Time Stamp | 2024-02-20 11:00:00 |
+
+
+

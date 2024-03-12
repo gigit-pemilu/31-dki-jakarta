@@ -1,0 +1,50 @@
+# Hasil
+
+## Grafik
+
+```mermaid
+xychart-beta
+    title "Perolehan Suara Nasional"
+    x-axis [01, 02, 03]
+    y-axis "Suara" 0 --> 96
+    bar [96, 67, 35]
+```
+
+```mermaid
+%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
+pie showData
+    "1" : 96
+    "2" : 67
+    "3" : 35
+```
+
+## Tabel
+
+| No.    | Nama Paslon    | Suara | Suara (raw) | Persentase |
+|:------ |:-------------- | -----:| -----------:| ----------:|
+| 100025 | ANIES MUHAIMIN | 96    | [96][p-1]   | 48,48      |
+| 100026 | PRABOWO GIBRAN | 67    | [67][p-2]   | 33,84      |
+| 100027 | GANJAR MAHFUD  | 35    | [35][p-3]   | 17,68      |
+
+
+[p-1]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/31-dki-jakarta/sub/75-jakarta-timur/sub/07-duren-sawit/sub/1006-malaka-jaya/sub/034-tps/sub/paslon-1.txt
+[p-2]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/31-dki-jakarta/sub/75-jakarta-timur/sub/07-duren-sawit/sub/1006-malaka-jaya/sub/034-tps/sub/paslon-2.txt
+[p-3]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/31-dki-jakarta/sub/75-jakarta-timur/sub/07-duren-sawit/sub/1006-malaka-jaya/sub/034-tps/sub/paslon-3.txt
+
+## Foto C Plano
+
+https://sirekap-obj-formc.kpu.go.id/d8fe/pemilu/ppwp/31/75/07/10/06/3175071006034-20240214-233401--7e4bcfdf-90de-4737-99a7-24bffa60608b.jpg
+
+https://sirekap-obj-formc.kpu.go.id/d8fe/pemilu/ppwp/31/75/07/10/06/3175071006034-20240214-233426--aad6a833-d173-425b-b7cd-f4346929d79b.jpg
+
+https://sirekap-obj-formc.kpu.go.id/d8fe/pemilu/ppwp/31/75/07/10/06/3175071006034-20240214-233443--9dc409dd-93ed-4ce2-94b3-cea83966da62.jpg
+
+
+## Metadata
+
+| Key        | Value               |
+| ---------- | ------------------- |
+| Time Stamp | 2024-02-25 15:00:00 |
+
+
+

@@ -1,0 +1,50 @@
+# Hasil
+
+## Grafik
+
+```mermaid
+xychart-beta
+    title "Perolehan Suara Nasional"
+    x-axis [01, 02, 03]
+    y-axis "Suara" 0 --> 93
+    bar [93, 60, 34]
+```
+
+```mermaid
+%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
+pie showData
+    "1" : 93
+    "2" : 60
+    "3" : 34
+```
+
+## Tabel
+
+| No.    | Nama Paslon    | Suara | Suara (raw) | Persentase |
+|:------ |:-------------- | -----:| -----------:| ----------:|
+| 100025 | ANIES MUHAIMIN | 93    | [93][p-1]   | 49,73      |
+| 100026 | PRABOWO GIBRAN | 60    | [60][p-2]   | 32,09      |
+| 100027 | GANJAR MAHFUD  | 34    | [34][p-3]   | 18,18      |
+
+
+[p-1]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/31-dki-jakarta/sub/74-jakarta-selatan/sub/10-pesanggrahan/sub/1003-petukangan-utara/sub/118-tps/sub/paslon-1.txt
+[p-2]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/31-dki-jakarta/sub/74-jakarta-selatan/sub/10-pesanggrahan/sub/1003-petukangan-utara/sub/118-tps/sub/paslon-2.txt
+[p-3]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/31-dki-jakarta/sub/74-jakarta-selatan/sub/10-pesanggrahan/sub/1003-petukangan-utara/sub/118-tps/sub/paslon-3.txt
+
+## Foto C Plano
+
+https://sirekap-obj-formc.kpu.go.id/16ea/pemilu/ppwp/31/74/10/10/03/3174101003118-20240214-221525--f2d0d3f7-fda8-4fed-860e-562f40cd62b9.jpg
+
+https://sirekap-obj-formc.kpu.go.id/16ea/pemilu/ppwp/31/74/10/10/03/3174101003118-20240214-221553--b19bfc9b-3149-43f4-87cd-efc573429c90.jpg
+
+https://sirekap-obj-formc.kpu.go.id/16ea/pemilu/ppwp/31/74/10/10/03/3174101003118-20240214-221624--cdf06857-6c10-48d9-9288-844a98a5c45d.jpg
+
+
+## Metadata
+
+| Key        | Value               |
+| ---------- | ------------------- |
+| Time Stamp | 2024-02-25 11:00:00 |
+
+
+

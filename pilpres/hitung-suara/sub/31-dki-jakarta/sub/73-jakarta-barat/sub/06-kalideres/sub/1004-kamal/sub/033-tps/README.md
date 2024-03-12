@@ -1,0 +1,50 @@
+# Hasil
+
+## Grafik
+
+```mermaid
+xychart-beta
+    title "Perolehan Suara Nasional"
+    x-axis [01, 02, 03]
+    y-axis "Suara" 0 --> 116
+    bar [84, 116, 23]
+```
+
+```mermaid
+%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
+pie showData
+    "1" : 84
+    "2" : 116
+    "3" : 23
+```
+
+## Tabel
+
+| No.    | Nama Paslon    | Suara | Suara (raw) | Persentase |
+|:------ |:-------------- | -----:| -----------:| ----------:|
+| 100025 | ANIES MUHAIMIN | 84    | [84][p-1]   | 37,67      |
+| 100026 | PRABOWO GIBRAN | 116   | [116][p-2]  | 52,02      |
+| 100027 | GANJAR MAHFUD  | 23    | [23][p-3]   | 10,31      |
+
+
+[p-1]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/31-dki-jakarta/sub/73-jakarta-barat/sub/06-kalideres/sub/1004-kamal/sub/033-tps/sub/paslon-1.txt
+[p-2]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/31-dki-jakarta/sub/73-jakarta-barat/sub/06-kalideres/sub/1004-kamal/sub/033-tps/sub/paslon-2.txt
+[p-3]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/31-dki-jakarta/sub/73-jakarta-barat/sub/06-kalideres/sub/1004-kamal/sub/033-tps/sub/paslon-3.txt
+
+## Foto C Plano
+
+https://sirekap-obj-formc.kpu.go.id/f47e/pemilu/ppwp/31/73/06/10/04/3173061004033-20240214-234719--0a36a956-bac2-4dd2-8ae1-e90d533366ef.jpg
+
+https://sirekap-obj-formc.kpu.go.id/f47e/pemilu/ppwp/31/73/06/10/04/3173061004033-20240214-234809--481f089c-8627-465b-83e5-3ab9f5440e1c.jpg
+
+https://sirekap-obj-formc.kpu.go.id/f47e/pemilu/ppwp/31/73/06/10/04/3173061004033-20240214-234953--1f459b0f-d94e-48e6-b725-1a60926a6822.jpg
+
+
+## Metadata
+
+| Key        | Value               |
+| ---------- | ------------------- |
+| Time Stamp | 2024-02-17 13:43:59 |
+
+
+
